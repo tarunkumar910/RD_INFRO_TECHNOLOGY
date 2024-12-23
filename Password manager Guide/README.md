@@ -30,7 +30,7 @@ This project demonstrates the use of:
 ## Features
 
 <div align="center">
-  <img src="images/password_manager_demo.png" alt="Password Manager Demo" width="700px">
+  <img src="password manger.mp4" alt="Password Manager Demo" width="700px">
   <br>
 </div>
 
