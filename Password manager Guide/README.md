@@ -30,10 +30,10 @@ This project demonstrates the use of:
 ## Features
 
 <div align="center">
-  [Watch the demo video](https://drive.google.com/uc?id=1FeOOqefAHFRvIyC7FgxrmygsQ44WNrEb&export=download)
+ 
   <br>
 </div>
-
+ [Watch the demo video](https://drive.google.com/uc?id=1FeOOqefAHFRvIyC7FgxrmygsQ44WNrEb&export=download)
 - **Secure Password Storage**: Stores encrypted passwords in an SQLite database.
 - **Password Retrieval**: Retrieve stored passwords without manually looking at files.
 - **Strong Password Generator**: Generates secure passwords of customizable length.
