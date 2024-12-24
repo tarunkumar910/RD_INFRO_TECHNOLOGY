@@ -31,7 +31,7 @@ This project demonstrates the use of:
 ## Features
 
 <h1 align="left">
-  <img src="image/Tic_tac_to.png" alt="Password_Strength_Checker" width="700px"></a>
+  <img src="image/image.png" alt="Password_Manger" width="700px"></a>
   <br>
 </h1>
 
