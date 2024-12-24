@@ -7,9 +7,9 @@
   <a href="#features">Features</a> •
   <a href="#installation">Install</a> •
   <a href="#usage">Usage</a> •
-  <a href="#work">Work</a> •
   <a href="#future">Future</a> •
-  <a href="#conclusion">Conclusion</a>
+  <a href="#conclusion">Conclusion</a> •
+  <a href="#author">Author</a> 
 </p>
 
 ---
@@ -85,4 +85,33 @@ pip install rich
 
 # Run the mager.py
 python manger.py
+```
+
+---
+
+## Future
+
+ - **Encryption**: Secure the password file using encryption (e.g., `cryptography` library).
+ - **Database Integration**: Replace the text file with a database (e.g., SQLite) for better scalability.
+ - **Master Password**: Add a master password to protect access to the manager.
+ - **GUI Interface**: Implement a graphical user interface for a more intuitive experience.
+ - **Backup and Restore**: Provide options to back up and restore credentials securely.
+
+
+---
+
+## Conclusion
+
+
+The **Password Manager** is a practical tool for anyone looking to securely manage passwords from the terminal. With its current features and planned improvements, this project serves as a stepping stone for building more robust password management solutions.
+
+Feel free to contribute to this repository and share your feedback. Together, we can make password management simpler and more secure!
+
+
+---
+
+## Author
+
+Developed by Tarunkumar910.
+
 
