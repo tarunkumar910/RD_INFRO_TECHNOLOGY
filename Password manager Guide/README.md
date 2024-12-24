@@ -30,10 +30,10 @@ This project demonstrates the use of:
 
 ## Features
 
-<div align="center">
- https://github.com/user-attachments/assets/0a66dac7-99c0-41a2-94e6-f60aa5d63e10
+<h1 align="left">
+  <img src="image/Tic_tac_to.png" alt="Password_Strength_Checker" width="700px"></a>
   <br>
-</div>
+</h1>
 
 - **Strong Password Generator**: Generates secure passwords with a customizable length.
 - **Save and Update Credentials**: Easily store, update, and manage passwords in a text file.
