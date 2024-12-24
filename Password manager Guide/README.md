@@ -35,12 +35,12 @@ This project demonstrates the use of:
   <br>
 </div>
 
-- **Secure Password Storage**: Stores encrypted passwords in an SQLite database.
-- **Password Retrieval**: Retrieve stored passwords without manually looking at files.
-- **Strong Password Generator**: Generates secure passwords of customizable length.
-- **Service Management**: Easily add, retrieve, and list services with associated credentials.
-- **User-Friendly Menu**: Navigate all features through a simple menu interface.
-- **Encryption**: Uses the `cryptography.fernet` library to encrypt and decrypt stored passwords.
+- **Strong Password Generator**: Generates secure passwords with a customizable length.
+- **Save and Update Credentials**: Easily store, update, and manage passwords in a text file.
+- **Search Functionality**: Retrieve credentials for specific platforms quickly.
+- **User-Friendly Menu**: Navigate all features through a simple, interactive menu interface.
+- **Formatted Output**: Uses the *rich* library to display tables and panels for better readability.
+- **Exception Handling**:Gracefully handles errors such as missing files or invalid inputs.
 
 ---
 
