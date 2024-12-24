@@ -16,14 +16,15 @@
 
 ## Introduction
 
-The **Password Manager** is a Python-based tool designed to securely generate, store, and retrieve passwords for various services. It leverages encryption to ensure that sensitive information remains protected, offering an easy-to-use console-based interface for managing passwords.
+The **Password Manager** is a Python-based tool designed to securely generate, store, and retrieve passwords for various platforms. This tool features a visually appealing console interface using the *rich* library and provides essential functionalities for managing your credentials.
 
 This project demonstrates the use of:
 
-- Encryption and decryption using `cryptography.fernet`
-- SQLite for database management
-- Secure password generation
-- Basic file and database operations
+- **Rich Library:** Provides visually appealing tables and panels for output.
+- **File Handling:** Efficiently manages password storage and updates in a text file.
+- **Interactive Console:** Features an easy-to-navigate menu for user interaction.
+- **Error Handling:** Implements robust exception handling to manage missing files or invalid inputs.
+- **Custom Password Generation:** Creates strong, randomized passwords to enhance security.
 
 ---
 
