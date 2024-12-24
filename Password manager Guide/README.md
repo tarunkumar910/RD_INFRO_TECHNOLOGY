@@ -81,5 +81,8 @@ cd cd RD_INFRO_TECHNOLOGY-main/
 cd Password\ manager\ Guide
 
 # Install dependencies
-pip install cryptography
+pip install rich
+
+# Run the mager.py
+python manger.py
 
