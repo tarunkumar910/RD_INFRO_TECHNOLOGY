@@ -112,6 +112,6 @@ Feel free to contribute to this repository and share your feedback. Together, we
 
 ## Author
 
-Developed by Tarunkumar910.
+Developed by <a href="https://github.com/tarunkumar910">tarunkumar910</a>.
 
 
