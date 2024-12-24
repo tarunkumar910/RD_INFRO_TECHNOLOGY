@@ -30,7 +30,7 @@ This project demonstrates the use of:
 
 ## Features
 
-<h1 align="left">
+<h1 align="center">
   <img src="image/image.png" alt="Password_Manger" width="700px"></a>
   <br>
 </h1>
