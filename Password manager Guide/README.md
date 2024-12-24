@@ -16,7 +16,7 @@
 
 ## Introduction
 
-The **Password Manager** is a Python-based tool designed to securely generate, store, and retrieve passwords for various platforms. This tool features a visually appealing console interface using the *rich* library and provides essential functionalities for managing your credentials.
+The **Password Manager** is a Python-based tool designed to securely generate, store, and retrieve passwords for various platforms. This tool features a visually appealing console interface using the `rich` library and provides essential functionalities for managing your credentials.
 
 This project demonstrates the use of:
 
@@ -39,7 +39,7 @@ This project demonstrates the use of:
 - **Save and Update Credentials**: Easily store, update, and manage passwords in a text file.
 - **Search Functionality**: Retrieve credentials for specific platforms quickly.
 - **User-Friendly Menu**: Navigate all features through a simple, interactive menu interface.
-- **Formatted Output**: Uses the *rich* library to display tables and panels for better readability.
+- **Formatted Output**: Uses the `rich` library to display tables and panels for better readability.
 - **Exception Handling**:Gracefully handles errors such as missing files or invalid inputs.
 
 ---
@@ -68,16 +68,16 @@ To run this project, you need:
 
 - Python 3.8 or higher.
 - Required Python libraries:
-  - `cryptography`
-  - `sqlite3`
+  - `rich`
+    
 
 ### Steps to Install
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/password-manager.git
+https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY.git
 
 # Navigate to the folder
-cd password-manager
+cd 
 
 # Install dependencies
 pip install cryptography
