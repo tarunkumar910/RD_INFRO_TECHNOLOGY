@@ -77,7 +77,8 @@ To run this project, you need:
 https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY.git
 
 # Navigate to the folder
-cd 
+cd cd RD_INFRO_TECHNOLOGY-main/
+cd Password\ manager\ Guide
 
 # Install dependencies
 pip install cryptography
