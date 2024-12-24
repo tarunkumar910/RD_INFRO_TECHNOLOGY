@@ -50,13 +50,14 @@ This project demonstrates the use of:
    - Run the Python script in your terminal.
    
 2. **Choose an Option**:
-   - Add a password for a service.
-   - Retrieve a stored password.
-   - Generate and save a new password.
-   - List all stored services.
+   - **Add New Entry**: Generate and store a password for a platform.
+   - **Check Stored Data**: Search for saved credentials by platform name.
+   - **Update Existing Password**: Generate and update a password for an existing platform and username.
+   - **Exit**: Quit the application.
 
-3. **Security**:
-   - Passwords are encrypted before being saved, ensuring secure storage.
+3. **Details**:
+   - Passwords are saved in a text file (*password_list.txt*).
+   - Each entry includes the platform name, username, and password.
 
 ---
 
