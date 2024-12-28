@@ -11,7 +11,7 @@ This repository provides resources to help individuals and organizations recogni
 - **Description**: A comprehensive guide that explains the mechanisms of phishing, how to identify phishing emails, and preventive measures to protect against phishing attacks.
 
 ### 2. **Video**
-- **File**: [Identifying_Email_Phishing_Video.mp4](./Video/Identifying_Email_Phishing_Video.mp4)
+- **File**: [Identifying_Email_Phishing_Video.mp4](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Phishing%20Awareness/Training%20on%20identifying%20phishing%20emails/vide.mp4)
 - **Description**: A walkthrough video explaining phishing indicators, real-world examples, and actionable steps to stay safe.
 
 ### 3. **Presentation**
