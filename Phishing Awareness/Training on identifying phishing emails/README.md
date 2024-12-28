@@ -14,9 +14,7 @@ This repository provides resources to help individuals and organizations recogni
 - **File**: [Identifying_Email_Phishing_Video.mp4](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Phishing%20Awareness/Training%20on%20identifying%20phishing%20emails/vide.mp4)
 - **Description**: A walkthrough video explaining phishing indicators, real-world examples, and actionable steps to stay safe.
 
-### 3. **Presentation**
-- **File**: [Identifying_Email_Phishing_Presentation.pptx](./Presentation/Identifying_Email_Phishing_Presentation.pptx)
-- **Description**: A PowerPoint slide deck summarizing the key concepts from the report and video.
+
 
 ---
 
@@ -24,7 +22,7 @@ This repository provides resources to help individuals and organizations recogni
 
 1. **Read the Report**: Start with the detailed report to understand the basics of phishing and its prevention.
 2. **Watch the Video**: Follow along with the video tutorial for a visual guide to identifying phishing attempts.
-3. **Review the Presentation**: Use the slides for quick reference or to educate others on phishing awareness.
+
 
 ---
 
@@ -35,13 +33,9 @@ The video, **Identifying_Email_Phishing_Video.mp4**, includes:
 - Key red flags to look out for.
 - Steps to prevent and respond to phishing attacks.
 
-[![Watch Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch Video](https://img.youtube.com/vi/o0btqyGWIQw/0.jpg)](https://www.youtube.com/watch?v=o0btqyGWIQw&t=9s)
 
----
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
@@ -54,8 +48,8 @@ Contributions, suggestions, and improvements are welcome! Feel free to fork this
 ## Contact
 
 - **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Email**: [tarun.pathak.kr@example.com]
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/tarun-kumar-pathak/)
 
 ---
 
