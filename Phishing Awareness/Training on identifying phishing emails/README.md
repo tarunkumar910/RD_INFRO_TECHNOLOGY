@@ -7,7 +7,7 @@ This repository provides resources to help individuals and organizations recogni
 ## Repository Contents
 
 ### 1. **Report**
-- **File**: [Identifying_Email_Phishing_Report.pdf](./Identifying%Email%Phishing.pdf)
+- **File**: [Identifying_Email_Phishing_Report.pdf](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Phishing%20Awareness/Training%20on%20identifying%20phishing%20emails/Identifying%20Email%20Phishing.pdf)
 - **Description**: A comprehensive guide that explains the mechanisms of phishing, how to identify phishing emails, and preventive measures to protect against phishing attacks.
 
 ### 2. **Video**
