@@ -111,7 +111,8 @@ You can explore the resources and tools used for the vulnerability scanning proc
 
 1. Extend the **Password Management** with a password breach check using an API.  
 2. Upgrade the **Packet Sniffer Tool** to log suspicious packets in real-time.  
-3. Convert the **Phishing Detection Report** into a hands-on project using a machine learning-based detection tool.  
+3. Convert the **Phishing Awareness Training** into an interactive online training platform.  
+4. Incorporate automated scanning and alerting features into the **Vulnerability Scanning** process.  
 
 ---
 
@@ -125,7 +126,7 @@ You can explore the resources and tools used for the vulnerability scanning proc
 ### 👨‍💻 Author  
 
 - **Tarun Kumar Pathak**  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **GitHub**: [Your GitHub Profile](#)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/tarun-kumar-pathak/)  
+- **GitHub**: [Your GitHub Profile](https://github.com/tarunkumar910)  
 
 Feel free to fork this repository or contribute to it by raising issues or pull requests!
