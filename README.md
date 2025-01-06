@@ -50,13 +50,13 @@ To create a simple Python-based password manager that allows users to:
 
 #### **Demo Video:**  
 You can view the demo video of the password manager in action here:  
-[Password Manager Demo](password_manager.mp4)
+[Password Manager Demo](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Password%20manager%20Guide/password%20manger.mp4)
 
 #### **Screenshot:**  
 Here's a screenshot of the password manager interface:  
-![Password Manager](image.png)
+![Password Manager](Password manager Guide/image/image.png)
 
-[📁 View the Task Code](#)  
+[📁 View the Task Code](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Password%20manager%20Guide)  
 
 ---
 
