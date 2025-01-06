@@ -1,8 +1,5 @@
 # RD INFRO TECHNOLOGY Internship Projects  
 
-
-
-
 ## 🛡️ Overview  
 
 This repository contains the tasks I completed during my **4-week Cybersecurity Internship** at **RD INFRO TECHNOLOGY**. The internship allowed me to work on real-world cybersecurity problems and enhance my technical and problem-solving skills.  
@@ -18,7 +15,7 @@ The tasks are divided into **three levels**:
 
 | **Task Level**  | **Task Title**                   | **Description**                                                | **Link**                                  |
 |------------------|----------------------------------|----------------------------------------------------------------|-------------------------------------------|
-| Simple          | Task 1: Password Strength Checker | Developed a Python-based tool to analyze password strength and provide recommendations. | [View Task](#)                           |
+| Simple          | Task 1: Password Management      | Created a Python-based password manager with features for creating, deleting, and checking passwords securely. | [View Task](#)                           |
 | Intermediate     | Task 2: Packet Sniffer Tool       | Built a network packet capture tool for monitoring and analyzing network traffic.       | [View Task](#)                           |
 | Advanced         | Task 3: Phishing Email Detection Report | Researched and created a detailed report on identifying phishing attempts and mitigation techniques. | [View Report](#)                          |
 
@@ -26,16 +23,38 @@ The tasks are divided into **three levels**:
 
 ## 📝 Task Details  
 
-### 🔹 Simple Task: Password Strength Checker  
+### 🔹 Simple Task: Password Management  
 **Objective:**  
-To create a tool that evaluates the strength of a password based on defined security metrics.  
+To create a simple Python-based password manager that allows users to:
+- Create new passwords.
+- Delete stored passwords.
+- Check stored passwords securely.
 
 **Skills Applied:**  
 - Python programming  
-- Regular expressions for pattern matching  
+- File handling for storage of passwords  
+- Basic encryption techniques (e.g., using `cryptography` or `hashlib`)
 
 **Technologies Used:**  
 - Python 3  
+- JSON (for storing password data)  
+- `cryptography` or `hashlib` (for password encryption)
+
+**Task Features:**  
+1. **Create a New Password**:  
+   The user can generate and store new passwords securely.  
+2. **Delete a Stored Password**:  
+   Allows users to remove passwords they no longer need from the manager.  
+3. **Check Existing Passwords**:  
+   Users can view their saved passwords (decrypted).  
+
+#### **Demo Video:**  
+You can view the demo video of the password manager in action here:  
+[Password Manager Demo](password_manager.mp4)
+
+#### **Screenshot:**  
+Here's a screenshot of the password manager interface:  
+![Password Manager](image.png)
 
 [📁 View the Task Code](#)  
 
@@ -77,7 +96,7 @@ To research and compile a detailed report on identifying phishing emails and imp
 
 ## 🚀 Future Enhancements  
 
-1. Extend the **Password Strength Checker** with a password breach check using an API.  
+1. Extend the **Password Management** with a password breach check using an API.  
 2. Upgrade the **Packet Sniffer Tool** to log suspicious packets in real-time.  
 3. Convert the **Phishing Detection Report** into a hands-on project using a machine learning-based detection tool.  
 
@@ -96,4 +115,4 @@ To research and compile a detailed report on identifying phishing emails and imp
 - **LinkedIn**: [Your LinkedIn Profile](#)  
 - **GitHub**: [Your GitHub Profile](#)  
 
-Feel free to fork this repository or contribute to it by raising issues or pull requests!  
+Feel free to fork this repository or contribute to it by raising issues or pull requests!
