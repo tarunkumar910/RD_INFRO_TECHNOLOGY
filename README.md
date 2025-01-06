@@ -1,9 +1,5 @@
 # RD INFRO TECHNOLOGY Internship Projects  
-
-<h1 align="center">
-  <img src="Attachment/rd_infro_technology.png" alt="Password_Manger" width="700px"></a>
-  <br>
-</h1>
+![RD INFRO TECHNOLOGY](https://media.licdn.com/dms/image/v2/D560BAQEWh2s4eE-q1Q/company-logo_200_200/company-logo_200_200/0/1719450736350?e=2147483647&v=beta&t=e_UqkO6Rqre7jOOqoKIS-KnfPH0Ezebpf7C6s9X20VE)
 ## 🛡️ Overview  
 
 This repository contains the tasks I completed during my **4-week Cybersecurity Internship** at **RD INFRO TECHNOLOGY**. The internship allowed me to work on real-world cybersecurity problems and enhance my technical and problem-solving skills.  
