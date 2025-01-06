@@ -122,6 +122,16 @@ You can explore the resources and tools used for the vulnerability scanning proc
 🌐 [Visit Official Website](https://rdinfrotechnology.netlify.app/)  
 
 ---
+## 📜 Certification  
+
+During my internship at RD INFRO TECHNOLOGY, I received a certification for successfully completing the tasks and projects.  
+
+### 🏆 Certificate of Completion  
+You can view and download the certificate from the link below:
+
+[Certificate of Completion](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Attachment/CYBER%20SECURITY.png)
+
+---
 
 ### 👨‍💻 Author  
 
