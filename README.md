@@ -66,40 +66,47 @@ Here's a screenshot of the password manager interface:
 
 ---
 
-### 🔹 Intermediate Task: Packet Sniffer Tool  
+### 🔹 Intermediate Task: Phishing Awareness  
 **Objective:**  
-Developed a network packet sniffer to capture and analyze packet data for potential security threats.  
+Conducted a simulated phishing campaign and provided training on identifying phishing emails. This task is divided into two parts:
 
-**Skills Applied:**  
-- Network programming using Python  
-- Understanding of packet structures and network protocols  
+1. **Phishing Campaign**:  
+   Conducted a simulated phishing campaign to test how well the targeted individuals could identify phishing emails.
+   
+   **Campaign Report:**  
+   You can view the detailed report on the simulated phishing campaign here:  
+   [Phishing Campaign Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Phishing%20Awareness/Phishing%20Campingn/SIMULATED%20PHISHING%20CAMPAIGN%20REPORT.pdf)
+   
+   **Campaign Repository:**  
+   You can explore the code and resources related to the phishing campaign here:  
+   [Phishing Campaign Repository](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Phishing%20Awareness/Phishing%20Campingn)
 
-**Technologies Used:**  
-- Python 3  
-- Scapy library  
+2. **Training on Identifying Phishing Emails**:  
+   Developed a training module to educate individuals on how to identify phishing emails and protect themselves from phishing attacks.  
 
-[📁 View the Task Code](#)  
+   **Training Report:**  
+   You can view the report on identifying phishing emails here:  
+   [Identifying Email Phishing Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Phishing%20Awareness/Training%20on%20identifying%20phishing%20emails/Identifying%20Email%20Phishing.pdf)
+
+   **Training Repository:**  
+   You can explore the code and materials related to the phishing awareness training here:  
+   [Training Repository](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Phishing%20Awareness/Training%20on%20identifying%20phishing%20emails)
 
 ---
 
-### 🔹 Advanced Task (Report-Based): Phishing Email Detection  
+### 🔹 Intermediate Task: Vulnerability Scanning  
 **Objective:**  
-To research and compile a detailed report on identifying phishing emails and implementing strategies to mitigate such attacks.  
+Performed regular vulnerability scans on network devices and software to identify and resolve security vulnerabilities.  
 
-**Skills Applied:**  
-- Cybersecurity research  
-- Data analysis of phishing email patterns  
-- Report writing and presentation  
+**Vulnerability Scanning Report:**  
+You can view the detailed report from the vulnerability scanning process here:  
+[Vulnerability Scanning Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Open%20VAS/report-002ed79e-c41f-4d81-9d29-f0329fbb1462.pdf)
 
-**Report Highlights:**  
-- **Definition and Indicators**: Characteristics of phishing emails, including suspicious links, spoofed sender information, and urgent language.  
-- **Detection Techniques**: Discussed AI/ML models, email header analysis, and anti-phishing tools.  
-- **Mitigation Strategies**: Proposed end-user training, email filtering, and threat intelligence systems.  
-
-[📁 View the Report](#)  
+**Vulnerability Scanning Repository:**  
+You can explore the resources and tools used for the vulnerability scanning process here:  
+[Vulnerability Scanning Repository](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Open%20VAS)
 
 ---
-
 ## 🚀 Future Enhancements  
 
 1. Extend the **Password Management** with a password breach check using an API.  
