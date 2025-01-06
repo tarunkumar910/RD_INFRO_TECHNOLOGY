@@ -59,6 +59,8 @@ Here's a screenshot of the password manager interface:
   <br>
 </h1>
 
+[Password Manager Code](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Password%20manager%20Guide/manger.py)
+
 
 [📁 View the Task Code](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Password%20manager%20Guide)  
 
