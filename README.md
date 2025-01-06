@@ -33,12 +33,12 @@ To create a simple Python-based password manager that allows users to:
 **Skills Applied:**  
 - Python programming  
 - File handling for storage of passwords  
-- Basic encryption techniques (e.g., using `cryptography` or `hashlib`)
+
 
 **Technologies Used:**  
 - Python 3  
 - JSON (for storing password data)  
-- `cryptography` or `hashlib` (for password encryption)
+
 
 **Task Features:**  
 1. **Create a New Password**:  
