@@ -16,8 +16,8 @@ The tasks are divided into **three levels**:
 | **Task Level**  | **Task Title**                   | **Description**                                                | **Link**                                  |
 |------------------|----------------------------------|----------------------------------------------------------------|-------------------------------------------|
 | Simple          | Task 1: Password Management      | Created a Python-based password manager with features for creating, deleting, and checking passwords securely. | [View Task](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Password%20manager%20Guide)                           |
-| Intermediate     | Task 2: Packet Sniffer Tool       | Built a network packet capture tool for monitoring and analyzing network traffic.       | [View Task](#)                           |
-| Advanced         | Task 3: Phishing Email Detection Report | Researched and created a detailed report on identifying phishing attempts and mitigation techniques. | [View Report](#)                          |
+| Intermediate     | Task 2: Phishing Awareness       | Conducted a simulated phishing campaign and provided training on identifying phishing emails.       | [View Task](#)                           |
+| Advanced         | Task 3: Vulnerability Scanning | Performed regular vulnerability scans on network devices and software. | [View Report](#)                          |
 
 ---
 
